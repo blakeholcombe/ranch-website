@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -9,7 +7,8 @@ function App() {
   return (
     <>
       <div>
-        
+        Hello World! I need to do Much on this but I need to get back into coding in general so this is my best opportinuty and spot to start good luck to me! 
+    
       </div>
       <p >
       </p>
